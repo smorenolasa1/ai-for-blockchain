@@ -22,7 +22,7 @@ This project is part of a voluntary extra-credit assignment on the viability of 
 ### 1. Clone the project
 
 ```bash
-git clone <https://github.com/smorenolasa1/ai-for-blockchain.git>
+git clone https://github.com/smorenolasa1/ai-for-blockchain.git
 cd ai-for-blockchain
 ```
 
