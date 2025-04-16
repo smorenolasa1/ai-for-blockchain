@@ -114,6 +114,34 @@ ai-for-blockchain/
         └── package.json
 ```
 
-## License
+## App Walkthrough
 
-MIT – For educational purposes.
+This section provides a step-by-step walkthrough of the application interface and how a token transfer works, illustrated through the following screenshots.
+
+1. **Connecting the Wallet**  
+   The user is prompted to connect their MetaMask wallet to the MyToken interface.  
+   ![Connecting Wallet](./screenshots/first.jpeg)
+
+2. **Wallet Connected**  
+   The wallet is successfully connected. Token name and total supply are displayed.  
+   ![Wallet Connected](./screenshots/second.jpeg)
+
+3. **Filling Transfer Details**  
+   The user enters the recipient address and the number of tokens to send.  
+   ![Transfer Form](./screenshots/third.jpeg)
+
+4. **MetaMask Transfer Request**  
+   MetaMask shows the transaction request for approval before sending tokens.  
+   ![MetaMask Request](./screenshots/fourth.jpeg)
+
+5. **Smart Contract Logs**  
+   The Hardhat terminal shows logs of the transaction, including sender, recipient, and gas usage.  
+   ![Terminal Logs](./screenshots/fifth.jpeg)
+
+6. **Successful Transfer Message**  
+   A confirmation message appears in the browser indicating the tokens were successfully sent.  
+   ![Success Message](./screenshots/sixth.jpeg)
+
+7. **Post-Transfer State**  
+   The user's token balance is updated after the transfer.  
+   ![Updated Balance](./screenshots/seventh.jpeg)
