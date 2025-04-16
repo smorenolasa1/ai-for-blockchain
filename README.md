@@ -118,8 +118,7 @@ ai-for-blockchain/
 
 This section provides a step-by-step walkthrough of the application interface and how a token transfer works.
 
-Initial interface:
-(./screenshots/first.jpeg)
+![Initial interface](./screenshots/eighth.jpeg)
 
 1. **Connecting the Wallet**  
    The user is prompted to connect their MetaMask wallet to the MyToken interface.  
