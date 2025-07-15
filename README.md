@@ -1,7 +1,7 @@
 
 # AI for Blockchain – ERC-20 Token Interface
 
-This project is part of a voluntary extra-credit assignment on the viability of using Generative AI tools (e.g., ChatGPT) for smart contract development and interaction.
+This project uses Generative AI tools for smart contract development and interaction.
 
 ## Objective
 
